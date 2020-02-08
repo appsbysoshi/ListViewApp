@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListViewApp</string>
+    <string name="id">ID</string>
+    <string name="name">NAME</string>
+    <string name="sort_type">SortType</string>
+    <string name="change_sort_type">ソート順切り替え</string>
+    <string name="no_data">データがありません</string>
+</resources>
